@@ -1,0 +1,5 @@
+A tarefa levou 2.04867 segundos para ser executada
+
+#SBATCH --ntasks=3                               
+#SBATCH --cpus-per-task=4                        
+#SBATCH --mem=500M 
