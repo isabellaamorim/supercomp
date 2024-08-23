@@ -1,0 +1,12 @@
+Tempo de execução total - alocação dinâmica: 0.0079211 segundos
+                                        
+Tempo de execução total - alocação vector: 0.0068115 segundos
+
+O tempo de execução para std::vector foi menor que para alocação dinâmica, apesar da diferença ser baixa. é vantajoso usar o std::vector 
+pois você não precisa se preocupar em liberar a memória manualmente, já que ele já faz isso sozinho. Além disso, seu tamnho não precisa ser 
+conhecido previamente. 
+
+Segurança de memória: Com std::vector, você evita vazamentos de memória comuns em alocação dinâmica tradicional, 
+pois ele gerencia a memória automaticamente. Quando o objeto std::vector é destruído (ou seja, quando sai de escopo 
+ou é explicitamente deletado), ele libera a memória associada sem a necessidade de chamadas manuais para delete ou free. 
+Isso reduz significativamente a chance de vazamentos de memória e acessos inválidos após a liberação de memória.
