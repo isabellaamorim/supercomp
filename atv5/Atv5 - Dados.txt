@@ -1,0 +1,24 @@
+Convolucao.cpp  
+N_ iteracoes = 15 
+Sem otimização: 0.44016
+Otimização básica (-O1): 0.119011
+Otimização padrão (-O2): 0.1766
+Otimização avançada (-O3): 0.077736
+
+N_ iteracoes = 30 
+Sem otimização: 1.69016
+Otimização básica (-O1): 0.453111
+Otimização padrão (-O2): 0.348455
+Otimização avançada (-O3): 0.157794
+
+N_ iteracoes = 50 
+Sem otimização: 2.80897
+Otimização básica (-O1): 0.731128
+Otimização padrão (-O2): 0.57254
+Otimização avançada (-O3): 0.258161
+
+N_ iteracoes = 100
+Sem otimização: 5.63595 
+Otimização básica (-O1): 1.51534
+Otimização padrão (-O2): 1.18562
+Otimização avançada (-O3): 0.515435

@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------
+prterun was unable to launch the specified application as it lacked
+permissions to execute an executable:
+
+Executable: ./convolucao_01 Node: compute00
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
