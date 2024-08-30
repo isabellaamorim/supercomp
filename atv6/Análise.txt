@@ -1,0 +1,8 @@
+Tempo de execução: 
+in1.txt - 0.0004428 segundos
+in2.txt - 0.0003154 segundos
+in3.txt - 0.000312  segundos
+in4.txt - 0.0003296 segundos
+
+O tempo de execução gira em torno de 0.00036 segundos para arquivos de no máximo 11 linhas. 
+Apesar de pequeno, esse tempo pode ser um problema para conjuntos maiores de dados, demandando muito mais tempo.
