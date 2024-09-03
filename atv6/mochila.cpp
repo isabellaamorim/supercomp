@@ -18,7 +18,7 @@ int mochila_binaria(int capacidade, const vector<int>& pesos, const vector<int>&
 } 
 
 int main() {
-    ifstream inputFile("in1.txt");
+    ifstream inputFile("Entrada_1.txt");
 
     if (!inputFile) {
         cerr << "Erro ao abrir o arquivo de entrada." << endl;

@@ -1,0 +1,64 @@
+EMBARALHADO: 
+
+Entrada_1 
+1. Peso ocupado: 378; Valor total: 263; Tempo: 0.0012250 segundos
+2. Peso ocupado: 377; Valor total: 324; Tempo: 0.0012594 segundos
+3. Peso ocupado: 379; Valor total: 344; Tempo: 0.0010503 segundos
+4. Peso ocupado: 341; Valor total: 281; Tempo: 0.0010284 segundos
+5. Peso ocupado: 336; Valor total: 292; Tempo: 0.0009676 segundos
+
+Entrada_2
+1. Peso ocupado: 235; Valor total: 195; Tempo: 0.0015716 segundos
+2. Peso ocupado: 235; Valor total: 110; Tempo: 0.0012451 segundos
+3. Peso ocupado: 235; Valor total: 225; Tempo: 0.0011004 segundos
+4. Peso ocupado: 238; Valor total: 343; Tempo: 0.0018588 segundos
+5. Peso ocupado: 236; Valor total: 215; Tempo: 0.0015529 segundos
+
+Entrada_3 
+1. Peso ocupado: 405; Valor total: 3320; Tempo: 0.0013448 segundos
+2. Peso ocupado: 405; Valor total: 3320; Tempo: 0.0014742 segundos
+3. Peso ocupado: 405; Valor total: 3320; Tempo: 0.0011476 segundos
+4. Peso ocupado: 405; Valor total: 3320; Tempo: 0.0014311 segundos
+5. Peso ocupado: 405; Valor total: 3320; Tempo: 0.0019565 segundos
+
+Entrada_4
+1. Peso ocupado: 597; Valor total: 430; Tempo: 0.0010013 segundos
+2. Peso ocupado: 597; Valor total: 479; Tempo: 0.0016737 segundos
+3. Peso ocupado: 594; Valor total: 585; Tempo: 0.0016119 segundos
+4. Peso ocupado: 600; Valor total: 495; Tempo: 0.0013866 segundos
+5. Peso ocupado: 600; Valor total: 530; Tempo: 0.0011530 segundos
+
+PROBABILIDADE:
+Entrada_1 
+1. Peso ocupado: 379; Valor total: 289; Tempo: 0.0007711 segundos
+2. Peso ocupado: 372; Valor total: 273; Tempo: 0.0006921 segundos
+3. Peso ocupado: 356; Valor total: 287; Tempo: 0.0012441 segundos
+4. Peso ocupado: 366; Valor total: 297; Tempo: 0.0013593 segundos
+5. Peso ocupado: 362; Valor total: 290; Tempo: 0.0015962 segundos
+
+Entrada_2
+1. Peso ocupado: 238; Valor total: 236; Tempo: 0.0010442 segundos
+2. Peso ocupado: 237; Valor total: 402; Tempo: 0.0014424 segundos
+3. Peso ocupado: 234; Valor total: 151; Tempo: 0.0011439 segundos
+4. Peso ocupado: 238; Valor total: 212; Tempo: 0.0011388 segundos
+5. Peso ocupado: 235; Valor total: 199; Tempo: 0.0006334 segundos
+
+Entrada_3 
+1. Peso ocupado: 223; Valor total: 1874; Tempo: 0.0011802 segundos
+2. Peso ocupado: 236; Valor total: 1793; Tempo: 0.0003235 segundos
+3. Peso ocupado: 243; Valor total: 1815; Tempo: 0.0009854 segundos
+4. Peso ocupado: 162; Valor total: 1722; Tempo: 0.0003928 segundos
+5. Peso ocupado: 181; Valor total: 1474; Tempo: 0.0011303 segundos
+
+Entrada_4
+1. Peso ocupado: 526; Valor total: 406; Tempo: 0.0012781 segundos
+2. Peso ocupado: 483; Valor total: 357; Tempo: 0.0012781 segundos
+3. Peso ocupado: 558; Valor total: 365; Tempo: 0.0013550 segundos
+4. Peso ocupado: 466; Valor total: 346; Tempo: 0.0015726 segundos
+5. Peso ocupado: 597; Valor total: 433; Tempo: 0.0015084 segundos
+
+BUSCA EXAUSTIVA:
+Entrada_1: Peso ocupado: 373; Valor total: 601; Tempo: 1.28888 segundos
+Entrada_2: Peso ocupado: 239; Valor total: 870; Tempo: 96.5052 segundos 
+Entrada_3: Demorou muito. 
+Entrada_4: Peso ocupado: 600; Valor total: 648; Tempo: 15.7274 segundos

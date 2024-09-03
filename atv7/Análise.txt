@@ -1,0 +1,5 @@
+Com base nos dados presentes em 'Dados.txt' é possível perceber que os códigos com heurísticas aleatórias são 
+muito mais rápidos que a busca exaustiva, porém, nem sempre retornam o melhor resultado. 
+Dito isso, fica a critério do programador, a depender do contexto, qual código utilizar. Se precisar de algo rápido, 
+é melhor optar pelas heurísticas aleatórias, mas se precisar do melhor resultado possível, é melhor optar por busca exaustiva. 
+
