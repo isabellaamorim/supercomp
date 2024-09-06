@@ -1,0 +1,2 @@
+Os resultados foram bem superiores quando comparados aos algoritmos aleatórios e o tempo de execução não foi muito afetado. 
+São práticas de boa alternativa à busca exaustiva, com qualidade parecida e tempo reduzido. 

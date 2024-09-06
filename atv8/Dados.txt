@@ -1,0 +1,46 @@
+MOCHILA CHEIA: 
+Entrada_1
+1. Peso ocupado: 374; Valor total: 259; Tempo: 0.0031375 segundos
+2. Peso ocupado: 374; Valor total: 218; Tempo: 0.0017364 segundos
+3. Peso ocupado: 367; Valor total: 253; Tempo: 0.0011466 segundos
+4. Peso ocupado: 373; Valor total: 328; Tempo: 0.0013386 segundos
+Entrada_2
+1. Peso ocupado: 238; Valor total: 274; Tempo: 0.0006917 segundos
+2. Peso ocupado: 239; Valor total: 196; Tempo: 0.0015459 segundos
+3. Peso ocupado: 237; Valor total: 193; Tempo: 0.0011204 segundos
+4. Peso ocupado: 238; Valor total: 239; Tempo: 0.0003059 segundos
+Entrada_3
+1. Peso ocupado: 596; Valor total: 525; Tempo: 0.0005800 segundos
+2. Peso ocupado: 598; Valor total: 512; Tempo: 0.0010954 segundos
+3. Peso ocupado: 581; Valor total: 517; Tempo: 0.001462 segundos
+4. Peso ocupado: 600; Valor total: 451; Tempo: 0.0006465 segundos
+
+SUBSTITUIÇÃO: 
+Entrada_1
+1. Peso ocupado: 373; Valor total: 503; Tempo: 0.0049056 segundos
+2. Peso ocupado: 379; Valor total: 525; Tempo: 0.0010236 segundos
+3. Peso ocupado: 375; Valor total: 533; Tempo: 0.0009181 segundos
+4. Peso ocupado: 370; Valor total: 584; Tempo: 0.0007090 segundos
+Entrada_2
+1. Peso ocupado: 238; Valor total: 1129; Tempo: 0.0007895 segundos
+2. Peso ocupado: 239; Valor total: 761;  Tempo: 0.0007723 segundos
+3. Peso ocupado: 237; Valor total: 848;  Tempo: 0.0008864 segundos
+4. Peso ocupado: 235; Valor total: 993;  Tempo: 0.0007318 segundos
+Entrada_3
+1. Peso ocupado: 570; Valor total: 570; Tempo: 0.0005914 segundos
+2. Peso ocupado: 549; Valor total: 509; Tempo: 0.0004007 segundos
+3. Peso ocupado: 600; Valor total: 571; Tempo: 0.0007789 segundos
+4. Peso ocupado: 572; Valor total: 607; Tempo: 0.0011063 segundos
+
+HILL CLIMBING: 
+Entrada_1
+1. Peso ocupado: 376; Valor total: 336; Tempo: 0.0004959 segundos
+2. Peso ocupado: 358; Valor total: 279; Tempo: 0.000523 segundos
+3. Peso ocupado: 364; Valor total: 394; Tempo: 0.0002426 segundos
+4. Peso ocupado: 380; Valor total: 399; Tempo: 0.0008263 segundos
+Entrada_2
+1. Peso ocupado: 239; Valor total: 432; Tempo: 0.0004093 segundos
+2. Peso ocupado: 231; Valor total: 384; Tempo: 0.0010583 segundos 
+3. Peso ocupado: 239; Valor total: 380; Tempo: 0.0009291 segundos
+4. Peso ocupado: 238; Valor total: 396; Tempo: 0.0004513 segundos
+Entrada_3
