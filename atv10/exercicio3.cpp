@@ -1,9 +1,10 @@
-%%writefile exercicio2.cu
+%%writefile exercicio3.cu
 #include <thrust/device_vector.h>   // Inclui a biblioteca Thrust para vetores na GPU
 #include <thrust/host_vector.h>     // Inclui a biblioteca Thrust para vetores na CPU
 #include <thrust/extrema.h>         // Inclui a biblioteca Thrust para funções de redução
 #include <iostream>                 // Biblioteca padrão para entrada e saída de dados
 #include <chrono>                   // Biblioteca para medir o tempo de execução do código
+#include <sstream>
 using namespace std;
 
 int main() {
@@ -32,8 +33,8 @@ int main() {
     }
 
     // Cria um vetor na GPU (device_vector) copiando os dados do vetor host da CPU
-    thrust::device_vector<double> dev_apple(host);
-    thrust::device_vector<double> dev_msft(host);
+    thrust::device_vector<double> dev_apple(host_apple);
+    thrust::device_vector<double> dev_msft(host_msft);
 
     //Diferença entre os vetores (APLPLE - MSFT)
     thrust::device_vector<double> diff_apple_msft(n, 0);
