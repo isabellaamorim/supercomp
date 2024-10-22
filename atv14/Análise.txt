@@ -1,0 +1,28 @@
+---------- Parte 1 --------------
+Valor de pi estimado: 3.14656
+Tempo de execução:  0.0093744 segundos
+
+---------- Parte 2 --------------
+Valor de pi estimado: 3.1292
+Tempo de execução:  0.006716 segundos
+
+---------- Parte 3 --------------
+Valor de pi estimado: 3.14344
+Tempo de execução:  0.0178096 segundos
+
+1.  Houve uma melhoria significativa no tempo de execução entre a versão sequencial e as versões paralelas?
+R: Houve uma melhoria principalmente da execução sequencial para a paralela simples, já a versão melhorada não obteve melhoria significativa, 
+provavelmente por causa dos geradores independentes. 
+
+2.  A estimativa de pi permaneceu precisa em todas as versões? 
+Sim, em todas as versões a estimativa de pi permaneceu bem perto do valor real. 
+
+3.  Quais foram os maiores desafios ao paralelizar o algoritmo, especialmente em relação aos números aleatórios?
+oi garantir que as threads tivessem geradores de números aleatórios independentes, evitando conflitos ou números repetidos entre as threads. 
+Usar um único gerador global seria ineficiente e poderia introduzir gargalos com seções críticas. 
+A solução foi fornecer geradores de números aleatórios independentes para cada thread, mas isso aumentou a complexidade 
+e introduziu sobrecarga, como visto na Parte 3, onde o uso de std::random_device e std::mt19937 tornou o processo mais 
+pesado do que o esperado. 
+
+4.  O uso de threads trouxe benefícios claros para este problema específico?
+Troxe a melhoria de desempenho em questão de tempo para a paralelização simples
