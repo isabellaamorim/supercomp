@@ -1,0 +1,12 @@
+Processo 0 enviou: Olá para o processo 1
+Processo 0 recebeu: Olá do processo 1
+Processo 0 enviou: Olá para o processo 2
+Processo 0 recebeu: Olá do processo 2
+Processo 0 enviou: Olá para o processo 3
+Processo 0 recebeu: Olá do processo 3
+Processo 1 recebeu: Olá do processo 0
+Processo 1 enviou: Olá para o processo 0
+Processo 2 recebeu: Olá do processo 0
+Processo 2 enviou: Olá para o processo 0
+Processo 3 recebeu: Olá do processo 0
+Processo 3 enviou: Olá para o processo 0
