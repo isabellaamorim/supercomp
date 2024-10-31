@@ -1,9 +1,10 @@
 #include <iostream>
 #include <mpi.h>
 #include <vector>
-#include <numeric>  // Para std::accumulate
-#include <cstdlib>  // Para rand e srand
-#include <ctime>    // Para time (seeding do rand)
+#include <numeric>
+#include <cmath>
+#include <cstdlib>
+#include <ctime>
 
 using namespace std;
 
