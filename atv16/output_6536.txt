@@ -1,0 +1,5 @@
+Processo raiz definiu num_iteracoes = 100
+Processo 0 terminou com resultado_local = 4950
+Processo 2 terminou com resultado_local = 5150
+Processo 1 terminou com resultado_local = 5050
+Processo 3 terminou com resultado_local = 5250
